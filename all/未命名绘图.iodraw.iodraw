@@ -93,6 +93,95 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="wWl3LLWcZEk9GmYFFzz6-35" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="291" y="1340" width="94" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="wWl3LLWcZEk9GmYFFzz6-36" value="系统独立音量状态" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="249" y="1439" width="178" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="wWl3LLWcZEk9GmYFFzz6-37" value="多音量条和边玩边听状态" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1690" width="226" height="226" as="geometry" />
+        </mxCell>
+        <mxCell id="wWl3LLWcZEk9GmYFFzz6-38" value="重置音量为1F" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2514" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="wWl3LLWcZEk9GmYFFzz6-39" value="正在放歌?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="398" y="1989" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wWl3LLWcZEk9GmYFFzz6-40" value="多音量条或边玩边听组件开启?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="328" y="2182" width="259" height="259" as="geometry" />
+        </mxCell>
+        <mxCell id="wWl3LLWcZEk9GmYFFzz6-41" value="设置音量为记录的增益" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="227" y="2514" width="221" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="wWl3LLWcZEk9GmYFFzz6-42" value="保持当前音量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="498" y="2514" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="wWl3LLWcZEk9GmYFFzz6-43" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="291" y="2613" width="94" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="wWl3LLWcZEk9GmYFFzz6-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="wWl3LLWcZEk9GmYFFzz6-35" target="wWl3LLWcZEk9GmYFFzz6-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wWl3LLWcZEk9GmYFFzz6-45" value="未开启" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="wWl3LLWcZEk9GmYFFzz6-36" target="wWl3LLWcZEk9GmYFFzz6-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wWl3LLWcZEk9GmYFFzz6-46" value="都未开启" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.81;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="wWl3LLWcZEk9GmYFFzz6-37" target="wWl3LLWcZEk9GmYFFzz6-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="99" y="1953" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wWl3LLWcZEk9GmYFFzz6-47" value="至少一项开启" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="wWl3LLWcZEk9GmYFFzz6-37" target="wWl3LLWcZEk9GmYFFzz6-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="458" y="1953" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wWl3LLWcZEk9GmYFFzz6-48" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="wWl3LLWcZEk9GmYFFzz6-39" target="wWl3LLWcZEk9GmYFFzz6-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wWl3LLWcZEk9GmYFFzz6-49" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.14;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="wWl3LLWcZEk9GmYFFzz6-40" target="wWl3LLWcZEk9GmYFFzz6-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="338" y="2477" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wWl3LLWcZEk9GmYFFzz6-50" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.86;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="wWl3LLWcZEk9GmYFFzz6-40" target="wWl3LLWcZEk9GmYFFzz6-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="577" y="2477" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wWl3LLWcZEk9GmYFFzz6-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.29;rounded=0;" edge="1" parent="1" source="wWl3LLWcZEk9GmYFFzz6-38" target="wWl3LLWcZEk9GmYFFzz6-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="99" y="2588" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wWl3LLWcZEk9GmYFFzz6-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="wWl3LLWcZEk9GmYFFzz6-41" target="wWl3LLWcZEk9GmYFFzz6-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wWl3LLWcZEk9GmYFFzz6-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.29;rounded=0;" edge="1" parent="1" source="wWl3LLWcZEk9GmYFFzz6-42" target="wWl3LLWcZEk9GmYFFzz6-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="577" y="2588" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
