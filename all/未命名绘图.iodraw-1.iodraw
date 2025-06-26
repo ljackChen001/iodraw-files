@@ -1,0 +1,111 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="F964WBQz3ggyiGa-VSk9">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2xYS4Cmgbbg2OMAvqesp-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="366" y="20" width="94" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="2xYS4Cmgbbg2OMAvqesp-2" value="系统独立音量是否开启?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="306" y="119" width="215" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="2xYS4Cmgbbg2OMAvqesp-3" value="多音量条和边玩边听状态" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="225" y="407" width="226" height="226" as="geometry" />
+        </mxCell>
+        <mxCell id="2xYS4Cmgbbg2OMAvqesp-4" value="重置音量为1F" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1203" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="2xYS4Cmgbbg2OMAvqesp-5" value="正在放歌?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="398" y="706" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2xYS4Cmgbbg2OMAvqesp-6" value="多音量条或边玩边听开启?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="342" y="899" width="231" height="231" as="geometry" />
+        </mxCell>
+        <mxCell id="2xYS4Cmgbbg2OMAvqesp-7" value="设置音量为记录的增益" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="227" y="1203" width="221" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="2xYS4Cmgbbg2OMAvqesp-8" value="保持当前音量" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="498" y="1203" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="2xYS4Cmgbbg2OMAvqesp-9" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="411" y="1302" width="94" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="2xYS4Cmgbbg2OMAvqesp-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="2xYS4Cmgbbg2OMAvqesp-1" target="2xYS4Cmgbbg2OMAvqesp-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2xYS4Cmgbbg2OMAvqesp-11" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="2xYS4Cmgbbg2OMAvqesp-2" target="2xYS4Cmgbbg2OMAvqesp-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="338" y="371" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2xYS4Cmgbbg2OMAvqesp-12" value="都未开启" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.81;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="2xYS4Cmgbbg2OMAvqesp-3" target="2xYS4Cmgbbg2OMAvqesp-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="99" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2xYS4Cmgbbg2OMAvqesp-13" value="至少一项开启" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="2xYS4Cmgbbg2OMAvqesp-3" target="2xYS4Cmgbbg2OMAvqesp-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="458" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2xYS4Cmgbbg2OMAvqesp-14" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="2xYS4Cmgbbg2OMAvqesp-5" target="2xYS4Cmgbbg2OMAvqesp-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2xYS4Cmgbbg2OMAvqesp-15" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.11;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="2xYS4Cmgbbg2OMAvqesp-6" target="2xYS4Cmgbbg2OMAvqesp-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="338" y="1167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2xYS4Cmgbbg2OMAvqesp-16" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="2xYS4Cmgbbg2OMAvqesp-6" target="2xYS4Cmgbbg2OMAvqesp-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="577" y="1167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2xYS4Cmgbbg2OMAvqesp-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.37;rounded=0;" edge="1" parent="1" source="2xYS4Cmgbbg2OMAvqesp-4" target="2xYS4Cmgbbg2OMAvqesp-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="99" y="1277" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2xYS4Cmgbbg2OMAvqesp-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.1;rounded=0;" edge="1" parent="1" source="2xYS4Cmgbbg2OMAvqesp-7" target="2xYS4Cmgbbg2OMAvqesp-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="338" y="1277" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2xYS4Cmgbbg2OMAvqesp-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.1;rounded=0;" edge="1" parent="1" source="2xYS4Cmgbbg2OMAvqesp-8" target="2xYS4Cmgbbg2OMAvqesp-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="577" y="1277" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2xYS4Cmgbbg2OMAvqesp-20" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.74;entryX=1;entryY=0.31;rounded=0;" edge="1" parent="1" source="2xYS4Cmgbbg2OMAvqesp-2" target="2xYS4Cmgbbg2OMAvqesp-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="371" />
+              <mxPoint x="710" y="1277" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
