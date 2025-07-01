@@ -35,10 +35,10 @@
           <mxGeometry x="389" y="864" width="114" height="114" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-633" value="显示重试状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="351" y="1120" width="157" height="49" as="geometry" />
+          <mxGeometry x="340" y="1160" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-634" value="更新失败次数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="309" y="1150" width="158" height="49" as="geometry" />
+          <mxGeometry x="351" y="1270" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-635" value="显示视频生成中的状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="540" y="1051" width="221" height="49" as="geometry" />
