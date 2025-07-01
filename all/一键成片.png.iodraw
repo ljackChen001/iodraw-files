@@ -185,10 +185,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-662" value="已经合成完成的状态" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.8;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-625" target="Y9CrW38lGirxomtFgAl9-641">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.2265" y="22" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="188" y="388" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
