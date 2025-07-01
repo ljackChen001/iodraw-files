@@ -59,7 +59,7 @@
           <mxGeometry x="594" y="1052" width="114" height="114" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-140" value="点击跳转到空间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="102" y="644" width="173" height="49" as="geometry" />
+          <mxGeometry x="140" y="743" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-141" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-122" target="Y9CrW38lGirxomtFgAl9-123">
           <mxGeometry relative="1" as="geometry">
