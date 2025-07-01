@@ -23,7 +23,7 @@
           <mxGeometry x="604" y="1536" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-24" value="点击生成视频" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="508" y="404" width="158" height="49" as="geometry" />
+          <mxGeometry x="505" y="290" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-25" value="上传OCS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="527" y="590" width="120" height="49" as="geometry" />
