@@ -44,10 +44,10 @@
           <mxGeometry x="663" y="1079" width="87" height="87" as="geometry" />
         </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-31" value="点击重试上传OCS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="806" y="241" width="185" height="49" as="geometry" />
+          <mxGeometry x="802" y="291" width="185" height="49" as="geometry" />
         </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-32" value="上传失败次数 &gt;= 3?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="810" y="340" width="177" height="177" as="geometry" />
+          <mxGeometry x="910" y="480" width="177" height="177" as="geometry" />
         </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-33" value="点击跳转到空间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1090" y="241" width="173" height="49" as="geometry" />
@@ -153,6 +153,7 @@
         <mxCell id="De6CzhuNfxgMcp3m0xbd-50" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.92;entryY=0;rounded=0;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-32" target="De6CzhuNfxgMcp3m0xbd-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="998" y="720" />
               <mxPoint x="838" y="553" />
               <mxPoint x="838" y="1202" />
             </Array>
