@@ -35,7 +35,7 @@
           <mxGeometry x="389" y="864" width="114" height="114" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-633" value="显示重试状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1051" width="157" height="49" as="geometry" />
+          <mxGeometry x="351" y="1120" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-634" value="更新失败次数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="309" y="1150" width="158" height="49" as="geometry" />
@@ -179,10 +179,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-661" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.78;entryX=0.74;entryY=0;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-640" target="Y9CrW38lGirxomtFgAl9-633">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.4359" y="-2" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="485" y="1015" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-662" value="已经合成完成的状态" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.8;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-625" target="Y9CrW38lGirxomtFgAl9-641">
