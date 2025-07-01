@@ -29,7 +29,7 @@
           <mxGeometry x="332" y="743" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-130" value="上传OCS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="351" y="898" width="120" height="49" as="geometry" />
+          <mxGeometry x="358" y="840" width="120" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-131" value="上传结果" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="389" y="1052" width="114" height="114" as="geometry" />
@@ -185,10 +185,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-161" value="已经合成完成的状态" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.8;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-124" target="Y9CrW38lGirxomtFgAl9-140">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.2805" y="30" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="188" y="608" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
