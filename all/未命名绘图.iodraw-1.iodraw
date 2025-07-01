@@ -1,0 +1,93 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="VUAcxRqzFLhIzidrXbOD">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="De6CzhuNfxgMcp3m0xbd-1" value="可以删除状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="195" y="110" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="De6CzhuNfxgMcp3m0xbd-2" value="已删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="232" width="109" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="De6CzhuNfxgMcp3m0xbd-3" value="可以生成视频状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="179" y="232" width="189" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="De6CzhuNfxgMcp3m0xbd-4" value="视频生成中" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="203" y="476" width="141" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="De6CzhuNfxgMcp3m0xbd-5" value="重试状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="373" y="354" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="De6CzhuNfxgMcp3m0xbd-6" value="重试状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="418" y="476" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="De6CzhuNfxgMcp3m0xbd-7" value="已经合成完成的状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="171" y="598" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="De6CzhuNfxgMcp3m0xbd-8" value="空间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="227" y="720" width="93" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="De6CzhuNfxgMcp3m0xbd-9" value="点击删除" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-1" target="De6CzhuNfxgMcp3m0xbd-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="75" y="196" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="De6CzhuNfxgMcp3m0xbd-10" value="点击上传" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-1" target="De6CzhuNfxgMcp3m0xbd-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="De6CzhuNfxgMcp3m0xbd-11" value="上传成功" style="curved=1;startArrow=none;endArrow=block;exitX=0.44;exitY=1;entryX=0.42;entryY=0;rounded=0;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-3" target="De6CzhuNfxgMcp3m0xbd-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="246" y="318" />
+              <mxPoint x="246" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="De6CzhuNfxgMcp3m0xbd-12" value="上传失败" style="curved=1;startArrow=none;endArrow=block;exitX=0.64;exitY=1;entryX=0.19;entryY=0;rounded=0;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-3" target="De6CzhuNfxgMcp3m0xbd-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="339" y="318" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="De6CzhuNfxgMcp3m0xbd-13" value="重试上传" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-5" target="De6CzhuNfxgMcp3m0xbd-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="De6CzhuNfxgMcp3m0xbd-14" value="成功上传" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=1;entryX=0.69;entryY=0;rounded=0;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-5" target="De6CzhuNfxgMcp3m0xbd-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="De6CzhuNfxgMcp3m0xbd-15" value="失败次数 &gt;= 3" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=0;entryX=0.99;entryY=1;rounded=0;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-5" target="De6CzhuNfxgMcp3m0xbd-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="466" y="318" />
+              <mxPoint x="466" y="196" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="De6CzhuNfxgMcp3m0xbd-16" value="合成完成" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-4" target="De6CzhuNfxgMcp3m0xbd-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="De6CzhuNfxgMcp3m0xbd-17" value="跳转到空间" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-7" target="De6CzhuNfxgMcp3m0xbd-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
