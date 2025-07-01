@@ -7,7 +7,7 @@
         <mxCell id="Y9CrW38lGirxomtFgAl9-663" value="打开二级页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="41" y="140" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Y9CrW38lGirxomtFgAl9-664" value="请求展示列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Y9CrW38lGirxomtFgAl9-664" value="请求展示列表接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="41" y="239" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-665" value="当前状态" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
@@ -53,7 +53,7 @@
           <mxGeometry x="514" y="1456" width="114" height="114" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-679" value="点击跳转空间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-15" y="525" width="157" height="49" as="geometry" />
+          <mxGeometry x="-50" y="720" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-680" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-663" target="Y9CrW38lGirxomtFgAl9-664">
           <mxGeometry relative="1" as="geometry">
@@ -68,7 +68,7 @@
         <mxCell id="Y9CrW38lGirxomtFgAl9-682" value="可以删除" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.77;entryX=0;entryY=0.08;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-665" target="Y9CrW38lGirxomtFgAl9-666">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-50" y="489" />
+              <mxPoint x="-150" y="400" />
               <mxPoint x="-50" y="1607" />
             </Array>
           </mxGeometry>
