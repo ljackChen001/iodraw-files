@@ -63,7 +63,7 @@
           <mxGeometry x="910" y="480" width="177" height="177" as="geometry" />
         </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-33" value="点击跳转到空间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1087" y="290" width="173" height="49" as="geometry" />
+          <mxGeometry x="1030" y="290" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-18" target="De6CzhuNfxgMcp3m0xbd-19">
           <mxGeometry relative="1" as="geometry">
@@ -153,10 +153,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-48" value="重试状态" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.89;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-19" target="De6CzhuNfxgMcp3m0xbd-31">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.1447" y="-14" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="899" y="205" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-31" target="De6CzhuNfxgMcp3m0xbd-32">
@@ -175,10 +176,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-52" value="合成完成状态" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.68;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-19" target="De6CzhuNfxgMcp3m0xbd-33">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0036" y="-15" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1128" y="205" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
