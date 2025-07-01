@@ -4,6 +4,97 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Y9CrW38lGirxomtFgAl9-18" value="游戏开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="287" y="20" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9CrW38lGirxomtFgAl9-19" value="是否有生成视频的次数?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="242" y="119" width="216" height="216" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9CrW38lGirxomtFgAl9-20" value="可以开始录制视频" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="144" y="408" width="189" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9CrW38lGirxomtFgAl9-21" value="不能录屏视频" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="383" y="408" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9CrW38lGirxomtFgAl9-22" value="游戏结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="176" y="507" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9CrW38lGirxomtFgAl9-23" value="调用检查Story的接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="134" y="606" width="210" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9CrW38lGirxomtFgAl9-24" value="是否命中?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="179" y="705" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9CrW38lGirxomtFgAl9-25" value="不删除视频" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="76" y="898" width="142" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9CrW38lGirxomtFgAl9-26" value="剪切视频保存对局信息和视频信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="997" width="253" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9CrW38lGirxomtFgAl9-27" value="不上传视频到OCS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="54" y="1114" width="185" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9CrW38lGirxomtFgAl9-28" value="删除视频" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="268" y="898" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9CrW38lGirxomtFgAl9-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-18" target="Y9CrW38lGirxomtFgAl9-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y9CrW38lGirxomtFgAl9-30" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.11;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-19" target="Y9CrW38lGirxomtFgAl9-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="239" y="372" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y9CrW38lGirxomtFgAl9-31" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-19" target="Y9CrW38lGirxomtFgAl9-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="462" y="372" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y9CrW38lGirxomtFgAl9-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-20" target="Y9CrW38lGirxomtFgAl9-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y9CrW38lGirxomtFgAl9-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-22" target="Y9CrW38lGirxomtFgAl9-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y9CrW38lGirxomtFgAl9-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-23" target="Y9CrW38lGirxomtFgAl9-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y9CrW38lGirxomtFgAl9-35" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.02;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-24" target="Y9CrW38lGirxomtFgAl9-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="147" y="862" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y9CrW38lGirxomtFgAl9-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-25" target="Y9CrW38lGirxomtFgAl9-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y9CrW38lGirxomtFgAl9-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-26" target="Y9CrW38lGirxomtFgAl9-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y9CrW38lGirxomtFgAl9-38" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.97;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-24" target="Y9CrW38lGirxomtFgAl9-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="331" y="862" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
