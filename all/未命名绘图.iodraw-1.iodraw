@@ -71,12 +71,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-35" value="删除状态" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0;entryY=0.32;rounded=0;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-19" target="De6CzhuNfxgMcp3m0xbd-20">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.7283" y="44" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="260" y="205" />
               <mxPoint x="170" y="820" />
               <mxPoint x="260" y="1202" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-20" target="De6CzhuNfxgMcp3m0xbd-21">
