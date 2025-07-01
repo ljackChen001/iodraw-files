@@ -44,7 +44,7 @@
           <mxGeometry x="540" y="969" width="221" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-95" value="点击重试" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="553" y="374" width="126" height="49" as="geometry" />
+          <mxGeometry x="660" y="374" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-96" value="重新上传OCS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="540" y="473" width="152" height="49" as="geometry" />
