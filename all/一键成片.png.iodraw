@@ -5,55 +5,55 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Y9CrW38lGirxomtFgAl9-663" value="打开二级页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="111" y="170" width="157" height="49" as="geometry" />
+          <mxGeometry x="41" y="140" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-664" value="请求展示列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="111" y="269" width="157" height="49" as="geometry" />
+          <mxGeometry x="41" y="239" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-665" value="当前状态" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="133" y="368" width="114" height="114" as="geometry" />
+          <mxGeometry x="63" y="338" width="114" height="114" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-666" value="点击删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="145" y="1673" width="126" height="49" as="geometry" />
+          <mxGeometry x="75" y="1643" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-667" value="删除本地视频+调用服务端删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="85" y="1772" width="246" height="67" as="geometry" />
+          <mxGeometry x="15" y="1742" width="246" height="67" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-668" value="弹出删除成功toast" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="111" y="1889" width="194" height="49" as="geometry" />
+          <mxGeometry x="41" y="1859" width="194" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-669" value="点击生成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="408" y="555" width="126" height="49" as="geometry" />
+          <mxGeometry x="338" y="525" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-670" value="上传OCS+弹生成toast" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="364" y="654" width="213" height="49" as="geometry" />
+          <mxGeometry x="294" y="624" width="213" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-671" value="上传结果" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="414" y="776" width="114" height="114" as="geometry" />
+          <mxGeometry x="344" y="746" width="114" height="114" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-672" value="视频生成中状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="508" y="1673" width="174" height="49" as="geometry" />
+          <mxGeometry x="438" y="1643" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-673" value="重试状态+更新失败次数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="282" y="963" width="229" height="49" as="geometry" />
+          <mxGeometry x="212" y="933" width="229" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-674" value="点击重试" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="258" y="1085" width="126" height="49" as="geometry" />
+          <mxGeometry x="188" y="1055" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-675" value="重新上传OCS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="245" y="1184" width="152" height="49" as="geometry" />
+          <mxGeometry x="175" y="1154" width="152" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-676" value="已尝试次数" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="256" y="1283" width="130" height="130" as="geometry" />
+          <mxGeometry x="186" y="1253" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-677" value="转为删除状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="242" y="1519" width="158" height="49" as="geometry" />
+          <mxGeometry x="172" y="1489" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-678" value="上传结果" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="584" y="1486" width="114" height="114" as="geometry" />
+          <mxGeometry x="514" y="1456" width="114" height="114" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-679" value="点击跳转空间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="55" y="555" width="157" height="49" as="geometry" />
+          <mxGeometry x="-15" y="525" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-680" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-663" target="Y9CrW38lGirxomtFgAl9-664">
           <mxGeometry relative="1" as="geometry">
@@ -68,8 +68,8 @@
         <mxCell id="Y9CrW38lGirxomtFgAl9-682" value="可以删除" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.77;entryX=0;entryY=0.08;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-665" target="Y9CrW38lGirxomtFgAl9-666">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="20" y="519" />
-              <mxPoint x="20" y="1637" />
+              <mxPoint x="-50" y="489" />
+              <mxPoint x="-50" y="1607" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -86,7 +86,7 @@
         <mxCell id="Y9CrW38lGirxomtFgAl9-685" value="可以生成" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-665" target="Y9CrW38lGirxomtFgAl9-669">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="471" y="519" />
+              <mxPoint x="401" y="489" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -103,23 +103,23 @@
         <mxCell id="Y9CrW38lGirxomtFgAl9-688" value="成功" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=1;entryX=0.39;entryY=0;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-671" target="Y9CrW38lGirxomtFgAl9-672">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="546" y="927" />
-              <mxPoint x="546" y="1637" />
+              <mxPoint x="476" y="897" />
+              <mxPoint x="476" y="1607" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-689" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=0.1;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-671" target="Y9CrW38lGirxomtFgAl9-673">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="396" y="927" />
+              <mxPoint x="326" y="897" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-690" value="重试状态" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=1;entryX=0.26;entryY=0;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-665" target="Y9CrW38lGirxomtFgAl9-674">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="247" y="519" />
-              <mxPoint x="247" y="1049" />
+              <mxPoint x="177" y="489" />
+              <mxPoint x="177" y="1019" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -141,43 +141,43 @@
         <mxCell id="Y9CrW38lGirxomtFgAl9-694" value="&amp;lt;3次" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0.37;entryY=0;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-676" target="Y9CrW38lGirxomtFgAl9-678">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="616" y="1450" />
+              <mxPoint x="546" y="1420" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-695" value="成功" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.6;entryY=0;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-678" target="Y9CrW38lGirxomtFgAl9-672">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="641" y="1637" />
+              <mxPoint x="571" y="1607" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-696" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=0;entryX=0.97;entryY=1;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-678" target="Y9CrW38lGirxomtFgAl9-673">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="665" y="1450" />
-              <mxPoint x="665" y="1049" />
+              <mxPoint x="595" y="1420" />
+              <mxPoint x="595" y="1019" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-697" value="已完成" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-665" target="Y9CrW38lGirxomtFgAl9-679">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="133" y="519" />
+              <mxPoint x="63" y="489" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-698" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.86;entryY=0;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-677" target="Y9CrW38lGirxomtFgAl9-666">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="321" y="1637" />
+              <mxPoint x="251" y="1607" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-699" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.74;entryY=0;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-673" target="Y9CrW38lGirxomtFgAl9-674">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="396" y="1049" />
+              <mxPoint x="326" y="1019" />
             </Array>
           </mxGeometry>
         </mxCell>
