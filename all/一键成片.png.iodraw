@@ -181,7 +181,7 @@
         <mxCell id="Y9CrW38lGirxomtFgAl9-661" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.78;entryX=0.74;entryY=0;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-640" target="Y9CrW38lGirxomtFgAl9-633">
           <mxGeometry x="-0.4359" y="-2" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="485" y="1015" />
+              <mxPoint x="1230" y="1230" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
