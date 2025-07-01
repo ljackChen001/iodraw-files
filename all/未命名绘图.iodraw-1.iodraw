@@ -56,7 +56,7 @@
         </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-55" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="De6CzhuNfxgMcp3m0xbd-54">
           <mxGeometry x="-0.3895" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-4" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-32" value="上传失败次数 &gt;= 3?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
