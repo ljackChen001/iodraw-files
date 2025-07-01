@@ -155,7 +155,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-48" value="重试状态" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.89;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-19" target="De6CzhuNfxgMcp3m0xbd-31">
-          <mxGeometry x="-0.1447" y="-14" relative="1" as="geometry">
+          <mxGeometry x="0.5051" y="-13" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="899" y="205" />
             </Array>
