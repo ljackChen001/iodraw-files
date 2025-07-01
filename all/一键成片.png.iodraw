@@ -14,7 +14,7 @@
           <mxGeometry x="275" y="218" width="83" height="83" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-85" value="点击删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="60" y="969" width="126" height="49" as="geometry" />
+          <mxGeometry x="62" y="960" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-86" value="删除本地视频" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="44" y="1068" width="158" height="49" as="geometry" />
@@ -47,10 +47,10 @@
           <mxGeometry x="660" y="374" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-96" value="重新上传OCS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="540" y="473" width="152" height="49" as="geometry" />
+          <mxGeometry x="647" y="472" width="152" height="49" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-97" value="上传次数" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="559" y="595" width="114" height="114" as="geometry" />
+          <mxGeometry x="685" y="580" width="114" height="114" as="geometry" />
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-98" value="变成删除状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="107" y="815" width="157" height="49" as="geometry" />
