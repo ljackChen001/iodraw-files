@@ -46,6 +46,9 @@
         <mxCell id="De6CzhuNfxgMcp3m0xbd-31" value="点击重试上传OCS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="802" y="291" width="185" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="De6CzhuNfxgMcp3m0xbd-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-32" target="De6CzhuNfxgMcp3m0xbd-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-32" value="上传失败次数 &gt;= 3?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="910" y="480" width="177" height="177" as="geometry" />
         </mxCell>
