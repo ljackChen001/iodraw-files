@@ -126,10 +126,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-653" value="成功" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.98;entryX=0.3;entryY=0;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-632" target="Y9CrW38lGirxomtFgAl9-635">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.3377" y="4" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="542" y="1015" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Y9CrW38lGirxomtFgAl9-654" value="重试状态" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.63;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="Y9CrW38lGirxomtFgAl9-625" target="Y9CrW38lGirxomtFgAl9-636">
