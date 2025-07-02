@@ -88,7 +88,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="De6CzhuNfxgMcp3m0xbd-359" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="De6CzhuNfxgMcp3m0xbd-333">
+        <mxCell id="De6CzhuNfxgMcp3m0xbd-359" value="可删除状态样式" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="De6CzhuNfxgMcp3m0xbd-333">
           <mxGeometry x="-0.7554" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
