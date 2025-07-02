@@ -46,11 +46,14 @@
         <mxCell id="De6CzhuNfxgMcp3m0xbd-326" value="显示重试状态样式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="570" y="1340" width="189" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="De6CzhuNfxgMcp3m0xbd-353" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-327" target="De6CzhuNfxgMcp3m0xbd-328">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-327" value="更新失败次数" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="589" y="1460" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-328" value="上传次数 &gt;= 3?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="516.5" y="1590" width="177" height="177" as="geometry" />
+          <mxGeometry x="579.5" y="1622" width="177" height="177" as="geometry" />
         </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-329" value="显示删除状态样式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="510" y="1799" width="189" height="49" as="geometry" />
@@ -142,13 +145,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="588" y="1035" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="De6CzhuNfxgMcp3m0xbd-346" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.19;entryY=0;rounded=0;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-327" target="De6CzhuNfxgMcp3m0xbd-328">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="535" y="1524" />
             </Array>
           </mxGeometry>
         </mxCell>
