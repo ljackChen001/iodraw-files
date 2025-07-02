@@ -43,6 +43,9 @@
         <mxCell id="De6CzhuNfxgMcp3m0xbd-324" value="上传成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="418" y="1200" width="119" height="119" as="geometry" />
         </mxCell>
+        <mxCell id="De6CzhuNfxgMcp3m0xbd-358" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-325" target="De6CzhuNfxgMcp3m0xbd-357">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-325" value="显示视频生成中的状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="169" y="1350" width="221" height="49" as="geometry" />
         </mxCell>
@@ -158,6 +161,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="De6CzhuNfxgMcp3m0xbd-357" value="显示视频生成中的状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="169" y="1479" width="221" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
