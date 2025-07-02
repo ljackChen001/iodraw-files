@@ -58,6 +58,11 @@
         <mxCell id="De6CzhuNfxgMcp3m0xbd-328" value="上传次数 &gt;= 3?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="579.5" y="1570" width="177" height="177" as="geometry" />
         </mxCell>
+        <mxCell id="De6CzhuNfxgMcp3m0xbd-356" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-329" target="De6CzhuNfxgMcp3m0xbd-316">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="1873.4999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-329" value="显示删除状态样式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="580" y="1849" width="182.5" height="49" as="geometry" />
         </mxCell>
@@ -152,13 +157,6 @@
         <mxCell id="De6CzhuNfxgMcp3m0xbd-349" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-329" target="De6CzhuNfxgMcp3m0xbd-330">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="De6CzhuNfxgMcp3m0xbd-350" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.15;rounded=0;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-330" target="De6CzhuNfxgMcp3m0xbd-320">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="605" y="1972" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-351" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-319" target="De6CzhuNfxgMcp3m0xbd-331">
