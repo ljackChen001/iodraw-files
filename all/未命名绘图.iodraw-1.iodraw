@@ -168,7 +168,7 @@
         <mxCell id="De6CzhuNfxgMcp3m0xbd-357" value="不能点击" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="169" y="1479" width="221" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="De6CzhuNfxgMcp3m0xbd-360" value="点击生成视频" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="De6CzhuNfxgMcp3m0xbd-360" value="弹生成中toast" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="159" y="1090" width="158" height="49" as="geometry" />
         </mxCell>
       </root>
