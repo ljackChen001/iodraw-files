@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="VUAcxRqzFLhIzidrXbOD">
-    <mxGraphModel dx="3341" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,7 +64,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-333" value="删除状态样式" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.7;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-315" target="De6CzhuNfxgMcp3m0xbd-316">
-          <mxGeometry x="0.0102" y="53" relative="1" as="geometry">
+          <mxGeometry x="-0.7278" y="102" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-110" y="730" />
             </Array>
