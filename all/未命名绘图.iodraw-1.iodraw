@@ -64,7 +64,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-329" value="显示删除状态样式" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="589" y="1853" width="182.5" height="49" as="geometry" />
+          <mxGeometry x="576" y="1854" width="182.5" height="49" as="geometry" />
         </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-331" value="跳转到空间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="747" y="1060" width="141" height="49" as="geometry" />
