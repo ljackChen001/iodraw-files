@@ -31,6 +31,9 @@
         <mxCell id="De6CzhuNfxgMcp3m0xbd-322" value="弹出Toast: 删除成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="276" y="2195" width="205" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="De6CzhuNfxgMcp3m0xbd-352" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-323" target="De6CzhuNfxgMcp3m0xbd-324">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-323" value="上传OCS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="417" y="1060" width="120" height="49" as="geometry" />
         </mxCell>
@@ -113,13 +116,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="238" y="1035" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="De6CzhuNfxgMcp3m0xbd-341" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.21;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-323" target="De6CzhuNfxgMcp3m0xbd-324">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="407" y="1134" />
             </Array>
           </mxGeometry>
         </mxCell>
