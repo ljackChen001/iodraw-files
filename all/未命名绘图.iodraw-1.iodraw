@@ -74,7 +74,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="De6CzhuNfxgMcp3m0xbd-333" value="删除状态样式" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.7;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="De6CzhuNfxgMcp3m0xbd-333" value="删除状态样式" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-315">
           <mxGeometry x="-0.7278" y="102" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="70" y="890" />
