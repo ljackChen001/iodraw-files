@@ -63,7 +63,7 @@
         <mxCell id="De6CzhuNfxgMcp3m0xbd-222" value="删除状态样式" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.79;entryX=0;entryY=0.1;rounded=0;" edge="1" parent="1" source="De6CzhuNfxgMcp3m0xbd-205" target="De6CzhuNfxgMcp3m0xbd-206">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="20" y="215" />
+              <mxPoint x="-60" y="170" />
               <mxPoint x="20" y="1267" />
             </Array>
           </mxGeometry>
