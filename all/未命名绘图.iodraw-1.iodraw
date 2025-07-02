@@ -47,7 +47,7 @@
           <mxGeometry x="407" y="852" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-71" value="上传次数 &gt;= 3?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="491" y="1044" width="177" height="177" as="geometry" />
+          <mxGeometry x="500" y="1044" width="177" height="177" as="geometry" />
         </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-72" value="点击跳转到空间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="486" y="241" width="173" height="49" as="geometry" />
