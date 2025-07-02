@@ -162,7 +162,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="De6CzhuNfxgMcp3m0xbd-357" value="显示视频生成中的状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="De6CzhuNfxgMcp3m0xbd-357" value="不能点击" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="169" y="1479" width="221" height="49" as="geometry" />
         </mxCell>
       </root>
