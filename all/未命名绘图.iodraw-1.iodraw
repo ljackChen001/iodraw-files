@@ -17,7 +17,7 @@
           <mxGeometry x="215" y="1460" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-131" value="调用服务端接口删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="191" y="1542" width="206" height="49" as="geometry" />
+          <mxGeometry x="191" y="1560" width="206" height="49" as="geometry" />
         </mxCell>
         <mxCell id="De6CzhuNfxgMcp3m0xbd-132" value="弹出Toast: 删除成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="191" y="1650" width="205" height="49" as="geometry" />
@@ -166,6 +166,9 @@
               <mxPoint x="582" y="205" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="De6CzhuNfxgMcp3m0xbd-162" value="删除本地视频" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="214.5" y="1370" width="158" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
